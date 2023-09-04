@@ -7,3 +7,5 @@ Code Included:
 3. Motion Profile 
 4. Motion Algorithm
 5. Intake/Outtake Control 
+
+Note: The code is written in C++ using Pros Editor. 
